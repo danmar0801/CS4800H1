@@ -1,6 +1,3 @@
-// 1)	INHERITANCE – “IS A” Relationship
-
-
 public class Main {
     public static void main(String[] args) {
         Employee employee1 = new SalariedEmployee("Joe","Jones","111-11-1111",2_500);

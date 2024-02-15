@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae173317-5e31-4e3a-b147-759be8ac40f4" name="Changes" comment="finished polymorphism">
-      <change afterPath="$PROJECT_DIR$/../CS4800H1-Composition/src/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS4800H1-Composition/src/Folder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS4800H1-Composition/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CS4800H1-Composition/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User1/Desktop/CS4800/HW1/CS4800H1-Aggregation"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
