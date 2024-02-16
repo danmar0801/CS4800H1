@@ -23,4 +23,8 @@ public class CommisionEmployee extends Employee{
     public void setGrossSalary(int grossSalary) {
         this.grossSalary = grossSalary;
     }
+    @Override
+    public String toString() {
+        return super.toString() + ", grossSalary=" + grossSalary + ", " + "cromRate= " + comRate;
+    }
 }

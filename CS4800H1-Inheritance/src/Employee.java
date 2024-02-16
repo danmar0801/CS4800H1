@@ -1,4 +1,4 @@
-public class Employee {
+public abstract class Employee {
     String firstName;
     String lastName;
     String SocialSecurityNum;
@@ -32,4 +32,14 @@ public class Employee {
         SocialSecurityNum = socialSecurityNum;
     }
 
+    // Implement a toString method for the Employee class
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", socialSecurityNumber='" + SocialSecurityNum + '\'' +
+                // Add other fields here
+                '}';
+    }
 }

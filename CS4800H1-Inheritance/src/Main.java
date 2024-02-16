@@ -7,5 +7,13 @@ public class Main {
         Employee employee5 = new SalariedEmployee("Renwa","Chanel","555-55-5555",1_700);
         Employee employee6 = new BaseEmployee("Mike","Davenport","666-66-6666",95_000);
         Employee employee7 = new CommisionEmployee("Mahnaz","Vaziri","777-77-7777",22,40_000);
+
+        System.out.println(employee1);
+        System.out.println(employee2);
+        System.out.println(employee3);
+        System.out.println(employee4);
+        System.out.println(employee5);
+        System.out.println(employee6);
+        System.out.println(employee7);
     }
 }

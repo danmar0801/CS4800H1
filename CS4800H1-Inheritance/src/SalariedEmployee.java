@@ -13,4 +13,8 @@ public class SalariedEmployee extends Employee{
     public void setWeeklySalary(int weeklySalary) {
         WeeklySalary = weeklySalary;
     }
+    @Override
+    public String toString() {
+        return super.toString() + ", weeklySalary=" + WeeklySalary;
+    }
 }

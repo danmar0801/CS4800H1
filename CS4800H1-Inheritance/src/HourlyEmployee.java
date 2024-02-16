@@ -23,4 +23,9 @@ public class HourlyEmployee extends Employee{
     public void setHoursWorked(int hoursWorked) {
         this.hoursWorked = hoursWorked;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() + ", hoursWorked= " + hoursWorked+ ", " + "wage= "+ wage;
+    }
 }
